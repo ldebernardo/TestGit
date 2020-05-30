@@ -1,1 +1,2 @@
-"Nuovo file" 
+Nuovo file
+Riga inserita da windows
