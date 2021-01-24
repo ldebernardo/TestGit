@@ -1,4 +1,1 @@
-Prima riga
-Seconda riga
-Terza riga
-Quarta riga inserita facendo il merge su Linux
+Riga 1 24/01
